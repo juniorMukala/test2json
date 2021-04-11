@@ -1,11 +1,8 @@
 {
   "identite" :{
-  "nom":"Je suis Junior Mukala,"
-  },
+  "nom":"Je suis Junior Mukala",
   
-  "profession":"developpeur web "
-},
-{
+  "profession":"developpeur web ",
 "lieu":"residant à Kinshasa en République Democratique du Congo"
 }
 }
